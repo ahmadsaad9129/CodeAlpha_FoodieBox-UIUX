@@ -22,7 +22,7 @@ This repository contains Task 1 – Wireframing & Low-Fidelity Design.
 - Profile
 
 🔗 Figma Wireframe Link
-[Click here to view wireframes]((https://www.figma.com/design/c1Akpr6nq6Y65SFDm46Obo/FoodieBox_Wireframes_Task1?node-id=0-1&t=JCpcZidqSc7Am7wC-1))
+https://www.figma.com/design/c1Akpr6nq6Y65SFDm46Obo/FoodieBox_Wireframes_Task1?node-id=0-1&t=JCpcZidqSc7Am7wC-1
 
 📂 Files Included
 - Wireframe PDF
