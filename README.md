@@ -1,31 +1,33 @@
- 🍔 FoodieBox – UI/UX Design (Task 1)
+FoodieBox – UI/UX Design Project 🍔
 
-📌 Project Overview
-FoodieBox is a food delivery mobile application designed as part of the CodeAlpha UI/UX Internship.
-This repository contains Task 1 – Wireframing & Low-Fidelity Design.
+This project was created as part of my UI/UX Design Internship at CodeAlpha.
 
-🎯 Task Completed
-✅ Task 1 – Wireframing & Low-Fidelity Design
+📱 Project Overview
+FoodieBox is a food delivery mobile application designed to provide users with a smooth and intuitive food ordering experience.
 
-🛠 Tool Used
+🧩 Tasks Completed
+- Task 1: Wireframing & Low-Fidelity Design
+- Task 2: High-Fidelity UI Design 
+- Task 4: Clickable Prototype Design
+
+🛠 Tools Used
 - Figma
 
-📱 Screens Designed
-- Splash Screen
-- Login / Signup
-- Home Screen
-- Search
-- Restaurant Listing
-- Food Item Details
-- Cart
-- Checkout
+ 🎨 Design Highlights
+- Clean and modern UI
+- Consistent spacing and typography
+- User-friendly navigation
+
+🔗 Prototype Link
+https://www.figma.com/proto/B5i9I6fTOaY6tNZ18LE1x8/Foodie-Box-Designs?node-id=0-1&t=cm0mcpmetapAGGj7-1
+
+📌 Screens Included
+- Splash & Login
+- Home & Search
+- Restaurant & Food Detail
+- Cart & Checkout
 - Profile
 
-🔗 Figma Wireframe Link
-https://www.figma.com/design/c1Akpr6nq6Y65SFDm46Obo/FoodieBox_Wireframes_Task1?node-id=0-1&t=JCpcZidqSc7Am7wC-1
-
-📂 Files Included
-- Wireframe PDF
-
-👨‍🎓 Internship
-CodeAlpha – UI/UX Design Internship
+👤 Designed by
+Ahmad Saad  
+UI/UX Designer
