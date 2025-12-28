@@ -21,6 +21,9 @@ FoodieBox is a food delivery mobile application designed to provide users with a
 🔗 Prototype Link
 https://www.figma.com/proto/B5i9I6fTOaY6tNZ18LE1x8/Foodie-Box-Designs?node-id=0-1&t=cm0mcpmetapAGGj7-1
 
+🔗 Design Link
+https://www.figma.com/design/B5i9I6fTOaY6tNZ18LE1x8/Foodie-Box-Designs?node-id=0-1&t=cm0mcpmetapAGGj7-1
+
 📌 Screens Included
 - Splash & Login
 - Home & Search
